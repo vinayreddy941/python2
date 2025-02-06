@@ -1,1 +1,1 @@
-print("vinscdsdsday")
+print("vinay")
